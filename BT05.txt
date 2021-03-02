@@ -1,0 +1,25 @@
+A6.20'25"
+B3.1000 
+B4.Đều cout ra 17 
+B5.
+B6.Error E0308
+B7.D
+B8.A
+B9.B
+B10.B
+B11.C
+B12.B
+B13.D
+B14.B
+B15.B
+B16.C
+B17.B
+B18.A
+B19.B
+B20.D
+B21.B
+B22.C
+B23.C
+B24.A
+B25.B
+B26.B
